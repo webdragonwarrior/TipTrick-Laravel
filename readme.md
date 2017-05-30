@@ -102,25 +102,6 @@ PSR-2 is a coding standard by PHP-FIG which aims to unify the way PHP code gets 
 
 Contributions to this repository are more than welcome although not all suggestions will be accepted and merged with the live site.
 
-## Community
-
-Keep track of development and Laravel-Tricks news.
-
-- Follow [@laraveltricks on Twitter](http://twitter.com/laraveltricks).
-
-
-## Authors
-
-**Stidges**
-
-- <http://twitter.com/stidges>
-- <https://github.com/stidges>
-
-**Maksim Surguy**
-
-- <http://twitter.com/msurguy>
-- <http://github.com/msurguy>
-
 ## Copyright and license
 
 Code released under [the MIT license](LICENSE).
